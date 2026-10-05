@@ -1,4 +1,4 @@
-# SwissCraft
+# CubeCraft
 
 Ein Minecraft-ähnliches Spiel, das direkt im Browser läuft – mit Crafting-Rezepten wie im Original.
 
